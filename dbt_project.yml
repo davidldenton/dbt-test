@@ -1,0 +1,4 @@
+# Example dbt_project.yml file
+name: 'jaffle_shop'
+profile: 'jaffle_shop'
+...
